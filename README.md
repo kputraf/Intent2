@@ -13,7 +13,7 @@
 
 
 
----Screenshot 3---
+---Screenshot 3----
 ![Screenshot](Intent2/Screenshot_2016-10-09-11-27-33-083_id.sch.smktelkom_mlg.learn.intent2.png)
 
 
